@@ -27,7 +27,6 @@ Frontend	React.js, Axios, CSS
 Backend	Node.js, Express.js
 Database	MySQL (via Sequelize ORM)
 Hosting	Render / Railway (Backend), Netlify / Vercel (Frontend)
-
 📁 Project Structure
 Inventory-Manager/
 │
@@ -100,7 +99,6 @@ GET	/api/items	Get all items
 POST	/api/items	Add new item
 PUT	/api/items/:id	Update existing item
 DELETE	/api/items/:id	Delete an item
-
 💡 Future Enhancements
 
 🔐 Add user authentication (Admin Login)
