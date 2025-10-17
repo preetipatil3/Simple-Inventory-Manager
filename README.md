@@ -27,34 +27,6 @@ Frontend	React.js, Axios, CSS
 Backend	Node.js, Express.js
 Database	MySQL (via Sequelize ORM)
 Hosting	Render / Railway (Backend), Netlify / Vercel (Frontend)
-📁 Project Structure
-Inventory-Manager/
-│
-├── backend/
-│   ├── controllers/
-│   │   └── items.controller.js
-│   ├── models/
-│   │   └── item.model.js
-│   ├── routes/
-│   │   └── item.routes.js
-│   ├── config/
-│   │   └── db.config.js
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── ItemForm.js
-│   │   │   ├── ItemList.js
-│   │   │   └── SearchBar.js
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── index.js
-│   ├── .env
-│   └── package.json
-│
-└── README.md
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
